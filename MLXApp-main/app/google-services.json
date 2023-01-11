@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073169662365",
+    "project_id": "mlxcoin",
+    "storage_bucket": "mlxcoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073169662365:android:8073cc6ec9820dbc516f74",
+        "android_client_info": {
+          "package_name": "com.nullsolutions.mlxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073169662365-83044vh1pqa499qfp7dd22kpcaho7vvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDmcSx4VCmr_PHVZlvIGcET_EcDO7Tt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073169662365-83044vh1pqa499qfp7dd22kpcaho7vvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
